@@ -3,3 +3,7 @@
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d4cee9b828f04a33bcb52e9d63e459a5)](https://www.codacy.com/gh/VunnamLakshmiPrasanna/M2_Home_Automation_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VunnamLakshmiPrasanna/M2_Home_Automation_System&amp;utm_campaign=Badge_Grade)
+
+![Code Quality Score](https://api.codiga.io/project/33093/score/svg)
+
+![Code Grade](https://api.codiga.io/project/33093/status/svg)
