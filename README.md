@@ -9,3 +9,7 @@
 ![Code Grade](https://api.codiga.io/project/33093/status/svg)
 
 [![Build linux](https://github.com/VunnamLakshmiPrasanna/M2_Home_Automation_System/actions/workflows/linux.yml/badge.svg)](https://github.com/VunnamLakshmiPrasanna/M2_Home_Automation_System/actions/workflows/linux.yml)
+
+[![CI](https://github.com/VunnamLakshmiPrasanna/M2_Home_Automation_System/actions/workflows/Cl.yml/badge.svg)](https://github.com/VunnamLakshmiPrasanna/M2_Home_Automation_System/actions/workflows/Cl.yml)
+
+
