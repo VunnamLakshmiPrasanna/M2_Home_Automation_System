@@ -37,7 +37,7 @@
 
 | S No | Name | Features | Issues Raised | Issues Resolved | Number of Test Cases | Test Case Pass |
 | ---- | ---- | -------- | ------------- | --------------- | -------------------- | -------------- |
-| 1 | Harshavardhan Muppuri | All | 1 | 1 | 5 | 5 | 
+| 1 | Vunnam Lakshmi Prasanna | All | 1 | 1 | 5 | 5 | 
 
 ## Integrated Tools to Github
 
